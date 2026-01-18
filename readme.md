@@ -1,4 +1,4 @@
-# Vue3 Typescript CALENDAR NAV UI Components Guide
+# Vue3 Typescript MODAL UI Components Guide
 
 ## 설치
 
