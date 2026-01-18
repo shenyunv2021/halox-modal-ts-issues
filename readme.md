@@ -6,7 +6,8 @@
 npm install halox-modal-ts
 ```
 ---
-
+![view](https://raw.githubusercontent.com/shenyunv2021/halox-modal-issues/main/view.png)
+---
 ## Description
 
 항상 최신 버전을 유지해주세요.
