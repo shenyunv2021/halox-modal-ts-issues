@@ -6,7 +6,7 @@
 npm install halox-modal-ts
 ```
 ---
-![view](https://raw.githubusercontent.com/shenyunv2021/halox-modal-issues/main/view.png)
+![view](https://raw.githubusercontent.com/shenyunv2021/halox-modal-ts-issues/main/view.png)
 ---
 ## Description
 
